@@ -10,5 +10,6 @@
 - Receiver app: https://codelabs.developers.google.com/codelabs/cast-receiver/#0
 
 ## others
+- CASTVIDEO TSESummit: https://cast-tse-demo.firebaseapp.com/sender/
 - Google Cast SDK Developer Console: https://cast.google.com/u/3/publish/?pli=1#/overview
 - CAF Receiver Logging Tool: https://cast-tse-demo.firebaseapp.com/receiver-debug-tool/
